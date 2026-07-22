@@ -37,6 +37,3 @@ A full-stack modern real estate web application built using the MERN stack (Mong
 To run this project locally, follow these steps:
 
 ### 1. Clone the Repository
-```bash
-git clone [https://github.com/Kanhaiya-Dixit/real-estate-app.git](https://github.com/Kanhaiya-Dixit/real-estate-app.git)
-cd full-stack-estate-main
