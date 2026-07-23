@@ -31,9 +31,3 @@ A full-stack modern real estate web application built using the MERN stack (Mong
 * **Prisma ORM:** Modern database toolkit for type-safe database operations and modeling.
 
 ---
-
-## ⚙️ Getting Started & Installation
-
-To run this project locally, follow these steps:
-
-### 1. Clone the Repository
